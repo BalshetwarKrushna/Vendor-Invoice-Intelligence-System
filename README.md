@@ -254,10 +254,10 @@ python invoice_flagging/train.py
 ## 📊 Application UI Preview
 
 ### 🔹 Home Dashboard
-![Dashboard](./images/dashboard.png)
+![Dashboard](./images/Screenshot (908).png)
 
 ### 🔹 Freight Cost Prediction
-![Freight Prediction](./images/freight_prediction.png)
+![Freight Prediction](./images/Screenshot (910).png)
 
 ### 🔹 Invoice Risk Detection
-![Invoice Risk](./images/invoice_risk.png)
+![Invoice Risk](./images/Screenshot (909).png)
